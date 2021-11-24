@@ -1,0 +1,41 @@
+[
+    {
+        "CustomerID": "123",
+        "OrderID":"701-6880569-0362639",
+        "OrderDate": "Nov 9, 2021",
+        "ProductID" : "12345",
+        "ProductName" : "Computer Speakers",
+        "ItemPrice" : 22.52,
+        "Quantity" : 2,
+        "Colour" : "silver",
+        "SoldBy" : "bestBuy",
+        "ReasonForReturn" : "Items arrived too late",
+        "EligibleToReturn" : true
+    },
+    {
+        "CustomerID": "456",
+        "OrderID":"601-6880569-0362639",
+        "OrderDate": "Oct 9, 2021",
+        "ProductID" : "6789",
+        "ProductName" : "Monitor",
+        "ItemPrice" : 22.52,
+        "Quantity" : 1,
+        "Colour" : "black",
+        "SoldBy" : "bestBuy",
+        "ReasonForReturn" : "Incompatible",
+        "EligibleToReturn" : true
+    },
+    {
+        "CustomerID": "789",
+        "OrderID":"501-6880569-0362639",
+        "OrderDate": "Sep 9, 2021",
+        "ProductID" : "1357",
+        "ProductName" : "T-Shirt",
+        "ItemPrice" : 30,
+        "Quantity" : 1,
+        "Colour" : "black",
+        "SoldBy" : "adidas",
+        "ReasonForReturn" : "Better price available",
+        "EligibleToReturn" : true
+    }
+]
